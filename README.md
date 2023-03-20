@@ -1,0 +1,1 @@
+![ScreenShot 1](https://github.com/jorgechavarriaga/TextEditor/blob/main/Screenshot-1.jpg)
